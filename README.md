@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Kirthika — Applied AI Engineer in Melbourne
 
-<!--
-**Kirthika-Srinivasan/Kirthika-Srinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Building production LLM systems: RAG · Agents · Azure AI · MLOps
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+| Project | Stack | Live |
+|---------|-------|------|
+| [Medical RAG Assistant](https://github.com/Kirthika-Srinivasan/MedicalAssistant-RAG-Azure) | Azure OpenAI · AI Search · FastAPI | [Live](https://medicalassistant-rag-azure-by-kirthika.streamlit.app) |
+| [Production RAG System](https://github.com/Kirthika-Srinivasan/RAG-LangChain) | LangChain · FAISS · Streamlit | [Live](https://kirthika-rag-lanchain-demo.streamlit.app) |
+| [MLOps Pipeline](https://github.com/Kirthika-Srinivasan/TravelTimeOptimisation_MLOps) | MLflow · Prometheus · AWS | [Repo](https://github.com/Kirthika-Srinivasan/TravelTimeOptimisation_MLOps) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+📫 kirthikasrini01@gmail.com · [LinkedIn](https://linkedin.com/in/kirthika-srinivasan)
