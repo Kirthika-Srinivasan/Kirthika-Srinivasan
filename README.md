@@ -5,9 +5,8 @@
 ### 🚀 Featured Projects
 | Project | Stack | Live |
 |---------|-------|------|
-| [Medical RAG Assistant](https://github.com/Kirthika-Srinivasan/MedicalAssistant-RAG-Azure) | Azure OpenAI · AI Search · FastAPI | [Live](https://medicalassistant-rag-azure-by-kirthika.streamlit.app) |
 | [Production RAG System](https://github.com/Kirthika-Srinivasan/RAG-LangChain) | LangChain · FAISS · Streamlit | [Live](https://kirthika-rag-lanchain-demo.streamlit.app) |
-| [Job Research Agent](https://github.com/Kirthika-Srinivasan/Job-Research-Agent) | Multi-Agent system · Tavili API · MCP . FastAPI| [Live] |
+| [Medical RAG Assistant](https://github.com/Kirthika-Srinivasan/MedicalAssistant-RAG-Azure) | Azure OpenAI · AI Search · FastAPI | [Live](https://medicalassistant-rag-azure-by-kirthika.streamlit.app) |
 | [MLOps Pipeline](https://github.com/Kirthika-Srinivasan/TravelTimeOptimisation_MLOps) | MLflow · Prometheus · AWS | [Repo](https://github.com/Kirthika-Srinivasan/TravelTimeOptimisation_MLOps) |
 
 ### 🛠️ Stack
