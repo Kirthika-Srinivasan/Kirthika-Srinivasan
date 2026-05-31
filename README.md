@@ -74,12 +74,31 @@ I'm an Applied AI Engineer focused on turning LLM research into **deployable, pr
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Kirthika-Srinivasan">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Kirthika-Srinivasan&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Kirthika Srinivasan's GitHub stats"
+      height="165"
+    />
+  </a>
+  <a href="https://github.com/Kirthika-Srinivasan">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthika-Srinivasan&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+      alt="Kirthika Srinivasan's top languages"
+      height="165"
+    />
+  </a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kirthika-Srinivasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthika-Srinivasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Kirthika-Srinivasan">
+    <img
+      src="https://streak-stats.demolab.com/?user=Kirthika-Srinivasan&theme=tokyonight&hide_border=true"
+      alt="Kirthika Srinivasan's GitHub streak"
+    />
+  </a>
+</p>
 
 ---
 
