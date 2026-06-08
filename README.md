@@ -31,6 +31,7 @@ I'm an Applied AI Engineer focused on turning LLM research into **deployable, pr
 | [**Production RAG System**](https://github.com/Kirthika-Srinivasan/RAG-LangChain) | End-to-end RAG pipeline with document ingestion, embedding, retrieval, and a Streamlit UI | LangChain · FAISS · OpenAI · Streamlit | [Live Demo](https://kirthika-rag-lanchain-demo.streamlit.app) |
 | [**Medical RAG Assistant**](https://github.com/Kirthika-Srinivasan/MedicalAssistant-RAG-Azure) | Domain-specific RAG assistant for medical Q&A with Azure-hosted models and search | Azure OpenAI · AI Search · FastAPI · Streamlit | [Live Demo](https://medicalassistant-rag-azure-by-kirthika.streamlit.app) |
 | [**YouTube Assistant**](https://github.com/Kirthika-Srinivasan/Youtube-Assistant-LLM-Langchain) | Q&A over YouTube video transcripts — load a URL, ask questions, get grounded answers | LangChain · OpenAI · FAISS · Streamlit · YouTube Transcript API | [Repo](https://github.com/Kirthika-Srinivasan/Youtube-Assistant-LLM-Langchain) |
+| [**RACV Policy Documents RAG**](https://github.com/Kirthika-Srinivasan/RAG_For_RACV_PolicyDocs) | RAG pipeline to parse RACV policy and roadside assistance PDFs, preserve tables and structure, generate embeddings, and answer grounded policy questions with LLMs. | LangChain · ChromaDB · SentenceTransformers · LlamaParse · Anthropic | [Repo](https://github.com/Kirthika-Srinivasan/RAG_For_RACV_PolicyDocs) |
 
 ### Agents, MCP & Automation
 
